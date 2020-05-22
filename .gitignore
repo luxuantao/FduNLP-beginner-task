@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 
 task1/data
+task2/data
+task2/.vector_cache
+task2/model_saved
