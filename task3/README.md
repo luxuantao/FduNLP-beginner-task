@@ -12,16 +12,3 @@
    1. 注意力机制
    2. token2token attetnion
 5. 时间：两周
-
-
-
-
-
-
-
-预处理：
-
-```
-python dataProcess.py --config config/preProcess_config.json
-```
-
