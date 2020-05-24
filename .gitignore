@@ -132,3 +132,5 @@ task1/data
 task2/data
 task2/.vector_cache
 task2/model_saved
+task3/data
+task3/saved_model
