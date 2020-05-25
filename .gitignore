@@ -134,3 +134,9 @@ task2/.vector_cache
 task2/model_saved
 task3/data
 task3/saved_model
+task4/data
+task4/model
+task4/renmindata.pkl
+task5/model
+task5/json
+task5/data
